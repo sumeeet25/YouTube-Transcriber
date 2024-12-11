@@ -50,7 +50,7 @@ conda activate transcriber
 ###  Download GitHub repo
 
 ```
-git clone https://github.com/patil1001/youtube-transcriber-app.git
+git clone https://github.com/sumeeet25/YouTube-Transcriber
 ```
 
 ###  Pip install libraries
